@@ -1,18 +1,12 @@
 <div align="center">
-  <img src="./assets/javier-hero.svg" alt="Javier Martínez — Ciencia de Datos e Ingeniería de Software; residencia profesional enero 2027" width="100%" />
+  <img src="./assets/javier-hero.svg" alt="Javier Martínez — Data Science, Software Engineering y experiencia en análisis de datos y tecnología educativa" width="100%" />
 </div>
-
-<p align="center">
-  <a href="https://tecomahua.github.io/javier-martinez-portfolio/#proyectos"><img src="./assets/cta-proyectos.svg" alt="Ver proyectos" height="46" /></a>&nbsp;&nbsp;
-  <a href="mailto:fjmt0716@gmail.com"><img src="./assets/cta-contacto.svg" alt="Contactarme por correo" height="46" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tecomahua"><img src="./assets/cta-linkedin.svg" alt="Visitar mi LinkedIn" height="46" /></a>
-</p>
 
 ---
 
 I'm a Computer Systems Engineering student at the **Instituto Tecnológico de Orizaba (TecNM)**. I work on data analysis and software projects, with an interest in how technology can improve learning and inform decisions.
 
-**Currently:** Seeking a professional residency starting in **January 2027**, ideally in Data Analytics, Data Science, or related engineering work.
+My experience includes public-data analysis, educational software development, and mobile applications. I focus on translating practical problems into well-structured, usable digital solutions.
 
 ## Projects
 
