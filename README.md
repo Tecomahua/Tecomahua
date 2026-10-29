@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/fj-banner.webp" alt="FJ — Data Science y Software Engineering" width="100%" />
+  <img src="./assets/fj-banner-v2.svg" alt="FJ — Data Science y Software Engineering" width="100%" />
 </div>
 
 ---
