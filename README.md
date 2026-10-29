@@ -1,8 +1,12 @@
-# Francisco Javier Martínez Tecomahua
+<div align="center">
+  <img src="./assets/javier-hero.svg" alt="Javier Martínez — Ciencia de Datos e Ingeniería de Software; residencia profesional enero 2027" width="100%" />
+</div>
 
-Computer Systems Engineering · Data Analytics · Software Development
-
-[Portfolio](https://suordd.github.io/javier-martinez-portfolio/) · [LinkedIn](https://www.linkedin.com/in/tecomahua) · [Email](mailto:fjmt0716@gmail.com)
+<p align="center">
+  <a href="https://tecomahua.github.io/javier-martinez-portfolio/#proyectos"><img src="./assets/cta-proyectos.svg" alt="Ver proyectos" height="46" /></a>&nbsp;&nbsp;
+  <a href="mailto:fjmt0716@gmail.com"><img src="./assets/cta-contacto.svg" alt="Contactarme por correo" height="46" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tecomahua"><img src="./assets/cta-linkedin.svg" alt="Visitar mi LinkedIn" height="46" /></a>
+</p>
 
 ---
 
@@ -19,12 +23,16 @@ Studied the commercial opportunity for a wellness business in Orizaba using publ
 
 `Python` · `pandas` · `NumPy` · `Exploratory Data Analysis`
 
+[View SPA project](https://tecomahua.github.io/javier-martinez-portfolio/proyectos/spa-orizaba/)
+
 ### Inglés Chido
 *Mobile application · Founder and developer*
 
 Building an English-learning app with interactive lessons, learning paths, and progress tracking. A learning analytics and personalization module is **planned**; it is not presented as a completed feature.
 
 `React Native` · `Expo` · `TypeScript`
+
+[View Inglés Chido](https://tecomahua.github.io/javier-martinez-portfolio/proyectos/ingles-chido/)
 
 ### STI-NEM
 *Educational software · Social service*
@@ -33,7 +41,7 @@ Contributed to the teacher-facing frontend of an intelligent mathematics tutorin
 
 `Next.js` · `React` · `TypeScript` · `Zod`
 
-[View projects and demos](https://suordd.github.io/javier-martinez-portfolio/)
+[View STI-NEM](https://tecomahua.github.io/javier-martinez-portfolio/proyectos/tutor-ia-nem/)
 
 ## Tools
 
