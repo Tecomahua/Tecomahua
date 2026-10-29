@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img" aria-labelledby="title desc">
 <title id="title">Javier Martínez — Data Science and Software Engineering</title>
-<desc id="desc">Banner de Javier Martínez: experiencia en análisis de datos, desarrollo de software y tecnología educativa, con líneas de datos y un monograma FJ.</desc>
+<desc id="desc">Banner minimalista de Javier Martínez con las especialidades Data Science y Software Engineering, visualización de datos y monograma FJ.</desc>
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080F1E"/><stop offset=".6" stop-color="#091427"/><stop offset="1" stop-color="#0B1930"/></linearGradient>
  <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientTransform="translate(100 0) rotate(39) scale(520 320)" gradientUnits="userSpaceOnUse"><stop stop-color="#183B7F" stop-opacity=".58"/><stop offset="1" stop-color="#183B7F" stop-opacity="0"/></radialGradient>
@@ -28,9 +28,6 @@
  <text x="75" y="165" font-size="89" font-weight="750" letter-spacing="-3.2" fill="#F1F5FC">Javier</text>
  <text x="75" y="258" font-size="90" font-weight="750" letter-spacing="-3.4" fill="url(#nameBlue)">Martínez</text>
  <text x="78" y="296" font-size="15.6" font-weight="500" letter-spacing="2.5" fill="#AAC6E9">DATA SCIENCE  ·  SOFTWARE ENGINEERING</text>
- <text x="78" y="338" font-size="16.5" fill="#A9C4E6">Experiencia en análisis de datos, desarrollo de software</text>
- <text x="78" y="367" font-size="16.5" fill="#A9C4E6">y tecnología educativa. Construyo soluciones digitales</text>
- <text x="78" y="396" font-size="16.5" fill="#A9C4E6">útiles, bien estructuradas y con impacto real.</text>
  <text x="1128" y="426" text-anchor="end" font-size="26" font-weight="300" letter-spacing="1.4" fill="#7CA8DD" opacity=".78">FJ</text>
 </g>
 </svg>
