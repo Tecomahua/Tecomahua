@@ -1,43 +1,81 @@
-# Francisco Javier Martínez Tecomahua
+<div align="center">
 
-**Computer Systems Engineering Student | Data Analytics & Software Development**
+  <img src="./assets/profile-header.svg" alt="Francisco Javier Martínez Tecomahua — Data Analytics, Software Engineering and EdTech" width="100%" />
 
-I'm a Computer Systems Engineering student at the **Instituto Tecnológico de Orizaba (TecNM)** in Mexico. I build software and analyze data to solve practical problems, with a particular interest in **Data Analytics, Data Science, and educational technology**.
+  <br />
 
-I'm seeking a **professional residency / internship starting in January 2027**, focused on data and analytical solutions.
+  <a href="https://suordd.github.io/javier-martinez-portfolio/"><strong>Explore my portfolio</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tecomahua">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:fjmt0716@gmail.com">Contact</a>
 
-## Selected projects
+</div>
 
-### SPA Market Opportunity Analysis — Orizaba, Veracruz
-**Academic team project | Python, pandas, NumPy, public data**
+<br />
 
-Analyzed economic, demographic, and business data from **INEGI (ENIGH 2024, DENUE, and the 2020 Census)** to evaluate the commercial opportunity for a wellness business in Orizaba. The project includes data cleaning, exploratory and statistical analysis, KPIs, visualization, and data storytelling. Recommendations are presented with methodological limitations rather than as guaranteed outcomes.
+## About
 
-### Inglés Chido — English-learning application
-**Founder and developer | React Native, Expo, TypeScript**
+I'm a **Computer Systems Engineering student** at the **Instituto Tecnológico de Orizaba (TecNM)**, focused on **Data Analytics, Data Science, and Software Engineering**.
 
-Building a mobile learning experience with interactive lessons, learning paths, and progress tracking. A **learning analytics and personalized recommendation module is planned** to use interaction and performance data to help adapt study activities to each learner.
+I enjoy working across the full problem-solving process: understanding a challenge, preparing and analyzing data, building applications, and translating findings into practical solutions. My current work centers on **educational technology and data-informed products**.
 
-### STI-NEM — Intelligent Tutoring System
-**Social service contributor | Next.js, React, TypeScript**
+> **Next step:** Professional residency / internship starting **January 2027**, ideally in Data Analytics, Data Science, or related engineering roles.
 
-Contributed to the teacher-facing frontend of a mathematics tutoring project for the Nueva Escuela Mexicana. Worked on teacher dashboards, student and group management, reusable components, typed API adapters, and form validation.
+## Selected work
 
-## Technical skills
+### 01 / SPA Market Opportunity Analysis
+**From public data to a business recommendation** · *Academic team project, 2026*
 
-- **Data:** Python, SQL, pandas, NumPy, scikit-learn, exploratory data analysis, statistics
-- **Analytics & reporting:** Power BI, Excel, data visualization, KPI reporting
-- **Development:** JavaScript, TypeScript, React, Next.js, React Native, Expo
-- **Databases & tools:** PostgreSQL, MySQL, Git, GitHub
+Explored the feasibility of opening a wellness business in Orizaba, Veracruz, using **INEGI ENIGH 2024, DENUE, and 2020 Census** data. The work combines data cleaning, exploratory analysis, weighted statistics, competitive mapping, KPIs, and data storytelling. Findings are presented alongside the limitations of the available data.
 
-## Education & languages
+`Python` `pandas` `NumPy` `Exploratory Data Analysis` `Data Storytelling`
 
-- **B.Eng. in Computer Systems Engineering** (in progress) — Instituto Tecnológico de Orizaba, TecNM
-- **Languages:** Spanish (native), English (B2)
+### 02 / Inglés Chido
+**Building an accessible English-learning experience** · *Founder & developer, ongoing*
 
-## Connect
+Developing a mobile application with interactive learning paths, lessons, and progress tracking. A **learning analytics and data-driven personalization module is planned** to explore patterns in learner performance and recommend more relevant study activities.
 
-- **Portfolio:** [Project demos and case studies](https://suordd.github.io/javier-martinez-portfolio/)
-- **LinkedIn:** [linkedin.com/in/tecomahua](https://www.linkedin.com/in/tecomahua)
+`React Native` `Expo` `TypeScript` `EdTech` `Learning Analytics (planned)`
 
-_Projects listed as in development or planned are not presented as completed features._
+### 03 / STI-NEM
+**Teacher-facing tools for an intelligent mathematics tutoring project** · *Social service contributor, 2026*
+
+Contributing to the frontend of the **Sistema Tutor Inteligente para la Nueva Escuela Mexicana**, including teacher dashboards, student and group management, reusable UI components, typed API adapters, and form validation.
+
+`Next.js` `React` `TypeScript` `Zod` `Frontend Engineering`
+
+<p align="right">
+  <a href="https://suordd.github.io/javier-martinez-portfolio/">View case studies and project visuals →</a>
+</p>
+
+## Technical toolkit
+
+| Data & analytics | Software & platforms |
+| :--- | :--- |
+| **Languages:** Python, SQL | **Languages:** TypeScript, JavaScript, Java |
+| **Libraries:** pandas, NumPy, scikit-learn | **Frontend:** React, Next.js, React Native, Expo |
+| **Methods:** EDA, statistics, data cleaning | **Backend & data:** PostgreSQL, MySQL, REST APIs |
+| **Reporting:** Power BI, Excel, KPI visualization | **Workflow:** Git, GitHub |
+
+## Beyond the code
+
+- **Education:** B.Eng. in Computer Systems Engineering, Instituto Tecnológico de Orizaba — in progress.
+- **Languages:** Spanish (native) · English (B2).
+- **Current interests:** Applied analytics, personalized learning, data-informed product development.
+
+---
+
+<div align="center">
+
+  <strong>Interested in collaborating?</strong>
+
+  <br />
+
+  Explore my <a href="https://suordd.github.io/javier-martinez-portfolio/">portfolio</a> or connect with me on <a href="https://www.linkedin.com/in/tecomahua">LinkedIn</a>.
+
+  <br /><br />
+
+  <sub>Building thoughtfully · Learning continuously · Grounding decisions in evidence</sub>
+
+</div>
