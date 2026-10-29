@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/javier-hero.svg" alt="Javier Martínez — Data Science, Software Engineering y experiencia en análisis de datos y tecnología educativa" width="100%" />
+  <img src="./assets/javier-hero.svg" alt="Javier Martínez — Data Science y Software Engineering" width="100%" />
 </div>
 
 ---
